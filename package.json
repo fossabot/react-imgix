@@ -136,13 +136,6 @@
     ]
   },
   "browserslist": [
-    "ie 11",
-    "last 1 edge versions",
-    "last 1 Chrome versions",
-    "last 1 Firefox versions",
-    "last 1 Safari versions",
-    "last 2 iOS versions",
-    "last 2 Android versions",
-    "not dead"
+    "cover 99.5%"
   ]
 }
