@@ -1,6 +1,7 @@
 <!-- ix-docs-ignore -->
 
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Freact-imgix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Freact-imgix?ref=badge_shield)
 
 `react-imgix` provides custom components for integrating [imgix](https://www.imgix.com/) into React sites and generating images server-side.
 
@@ -682,3 +683,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## Meta
 
 React-imgix was originally created by [Frederick Fogerty](http://twitter.com/fredfogerty). It's licensed under the ISC license (see the [license file](./LICENSE) for more info).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Freact-imgix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Freact-imgix?ref=badge_large)
